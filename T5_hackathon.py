@@ -19,7 +19,7 @@ st.set_page_config(layout="wide")
 ## data cache
 @st.cache_data
 def load_data_een_jaar():
-    df_plane = pd.read_csv('Data1jaar.csv')
+    df_plane = pd.read_csv('2Data1jaar.csv')
     df_plane['time'] = pd.to_datetime(df_plane['time'])
     df_plane['landen_stijgen'] = np.where((df_plane['tags'].str.split('_').str[1])=='T','stijgt','land')
     df_plane['datum'] = df_plane['time'].dt.date
@@ -42,9 +42,6 @@ def load_data_een_jaar():
                                     bins=[0, 22.5, 67.5, 112.5, 157.5, 202.5, 247.5, 292.5, 337.5,360], 
                                     labels=['N', 'NO', 'O', 'ZO', 'Z', 'ZW', 'W', 'NW','N'], 
                                     right=False,ordered=False)
-    df_plane.drop(columns=['id','location_long','SELd','SELe','SELn','SELden','SEL','label',
-                           'windspeed','winddirection','callsign','duration','hex_s', 
-                           'registration', 'icao_type', 'serial'],inplace=True)
     return df_plane
 
 @st.cache_data
