@@ -1,0 +1,607 @@
+type,gewicht_kg,capaciteit_passagiers
+Embraer ERJ 170-200 STD,42700.0,88.0
+Boeing 737-800,79015.0,189.0
+Boeing 777 F1H,299370.0,370.0
+Airbus A330 303,242000.0,277.0
+Canadair CL-600-2B19 CRJ-200LR,24000.0,50.0
+Embraer ERJ190-100STD,51200.0,100.0
+Boeing 777-2DZLR,299370.0,370.0
+Embraer ERJ 190-100 STD,51200.0,100.0
+Boeing 787-9,254000.0,296.0
+Airbus A320 214,77000.0,180.0
+Airbus A320 232SL,77000.0,180.0
+Airbus A320 214SL,77000.0,180.0
+Boeing 737NG 8AS/W,79015.0,189.0
+Boeing 777-300ER,351500.0,396.0
+Boeing 767-316F,186880.0,261.0
+Boeing 777-200,247200.0,314.0
+Boeing 737-700,70535.0,149.0
+Airbus A330 343E,242000.0,277.0
+Airbus SAS A330-203,233000.0,293.0
+Boeing 787 8,242000.0,270.0
+Eurocopter Deutschland EC135 P2+,2910.0,
+Boeing 777-3DZER,299370.0,370.0
+Bombardier C Series 100,54600.0,
+Airbus SAS A330-303,242000.0,277.0
+Airbus A319 131,75500.0,124.0
+Boeing 777 FFX,347800.0,0.0
+Airbus A320-271N,77000.0,180.0
+Airbus A320 - 214SL,77000.0,180.0
+Airbus A319-111,75500.0,124.0
+Cessna Citation CJ2+,5670.0,6.0
+Embraer EMB-190 LR,51800.0,
+Airbus A320-251N,77000.0,180.0
+Boeing 777 3U3ER,299370.0,370.0
+Airbus A320 216,77000.0,180.0
+Airbus A320 233,77000.0,180.0
+Bombardier C Series 300,61480.0,
+Embraer ERJ190-200LR,52200.0,
+Airbus A320 216SL,77000.0,180.0
+Airbus A320-214SL,77000.0,180.0
+Airbus A318 111,68000.0,107.0
+Bombardier CRJ 900 LR NG,,
+Boeing 747 4FTF,447700.0,467.0
+Embraer ERJ190-100SR,51200.0,100.0
+Airbus A319 112,75500.0,124.0
+Boeing 737NG 8HC/W,79015.0,189.0
+Embraer ERJ190-100LR,,
+Airbus A319 132,75500.0,124.0
+Boeing 737NG 8HX/W,79015.0,189.0
+Bombardier BD500 Series CS300,,
+Boeing 767-304,186880.0,261.0
+Cessna Citation XLS,9163.0,9.0
+Embraer EMB505 Phenom 300,,
+Boeing 737-900,86000.0,177.0
+Cessna Citation Mustang,3920.0,4.0
+Airbus A330 302,242000.0,277.0
+Boeing 747 47UF,396890.0,0.0
+Boeing 777 300ER,299370.0,370.0
+Embraer EMB-170 STD,39000.0,76.0
+Boeing 737NG 78J/W,79015.0,189.0
+Boeing 737NG 958ER/W,79015.0,189.0
+Boeing 787-8,227930.0,242.0
+Airbus A321 231SL,89000.0,244.0
+Boeing 737-8MAX,82000.0,210.0
+Boeing 777-FDZ,299370.0,370.0
+Boeing 787 9,242000.0,270.0
+Airbus A321 231,89000.0,244.0
+Airbus A350 941,280000.0,350.0
+Cessna 560XLS+ Citation Excel,,
+Airbus A380 861,575000.0,853.0
+Embraer EMB-505 Phenom 300,8150.0,8.0
+Boeing 777 31HER,351500.0,396.0
+Boeing 757 204SF,115000.0,239.0
+Boeing 747-45EF (SCD),447700.0,467.0
+Cessna Citation CJ4,7710.0,10.0
+Airbus A319 114,75500.0,124.0
+Airbus Helicopters EC135 P3H,,
+Airbus A330 323X,242000.0,277.0
+Boeing 777-F,347800.0,0.0
+Boeing 777 2DZLR,299370.0,370.0
+Bombardier Challenger 300,,
+Embraer Legacy 600,22500.0,13.0
+Boeing 737-8B6 (W),79015.0,189.0
+Embraer ERJ170-100LR,,
+Dassault Falcon 2000 EASy,,
+Boeing 737NG 8F2/W,79015.0,189.0
+Boeing 747 409F,447700.0,467.0
+Embraer ERJ190-200IGW,,
+Boeing 787-8 Dreamliner,227930.0,242.0
+Embraer EMB145LU,,
+Bombardier CRJ 900 LR,,
+Airbus A310 308F,,
+Airbus A330 223,242000.0,277.0
+Boeing 747-400F,447700.0,467.0
+Boeing 777 F1B,347800.0,0.0
+Dornier 328-300 JET,,
+Cessna 560XL Citation Excel XLS+,,
+Airbus A320 232,77000.0,180.0
+Airbus A321 211,89000.0,244.0
+Boeing 737-8H6/W,79015.0,189.0
+Boeing 747 4EVERF,447700.0,467.0
+Airbus A350-941,280000.0,350.0
+Boeing 737 548/W,79015.0,189.0
+Boeing 777 3DZER,351500.0,396.0
+Embraer EMB-170 LR,,
+Boeing 747 467ERF,447700.0,467.0
+Airbus A319 111,75500.0,124.0
+Bombardier Challenger 350,18300.0,10.0
+Canadair CRJ900 Regional Jet,,
+Airbus A319-114,75500.0,124.0
+Boeing 787-10,242000.0,270.0
+Boeing 777 35EER,299370.0,370.0
+Airbus A330-322PTF,242000.0,277.0
+Boeing 747 4R7F,447700.0,467.0
+Piper PA-31T1 Cheyenne I,,
+Airbus A320-216,77000.0,180.0
+Boeing 737-8AS/WL,79015.0,189.0
+Textron Aviation Citation XLS+,,
+Embraer 135BJ Legacy 600,,
+Bombardier BD100 Challenger 350,18300.0,10.0
+Boeing 777 F6N,299370.0,370.0
+Cessna 560XL Citation Excel,,
+Airbus A220-300,,
+Learjet 75,,
+Cessna 560XL Citation XLS+,,
+Airbus A300 B4-622RF,,
+Boeing 747 8KZF,447700.0,0.0
+Boeing 737NG 8AR/W,79015.0,189.0
+Boeing 777 F,299370.0,370.0
+Dassault Falcon 900EX,,
+Embraer ERJ175SD,,
+Tie-up extracted from Country Sequence,,
+Pilatus PC12/47E,,
+Canadair CRJ900NG Regional Jet,38600.0,90.0
+Boeing 747 412F,447700.0,467.0
+Dassault Falcon 7X,,
+Bombardier BD100 Challenger 300,,
+Boeing 737-86N (W),79015.0,189.0
+Embraer Phenom 300,8150.0,8.0
+Agusta AW139,,
+Airbus A330 323E,242000.0,277.0
+Cessna 525A CitationJet CJ2+,5670.0,6.0
+Cessna 650,,
+Boeing 737NG 800/W,79015.0,189.0
+Boeing 777 224ER,299370.0,370.0
+Canadair CL650 Challenger,,
+Boeing 737-8AS/W,79015.0,189.0
+Boeing 747 4HQERF,447700.0,467.0
+Diamond DA42M,,
+Diamond DA40D Star,1150.0,4.0
+Cessna 208,,
+Gulfstream Aerospace G280,,
+Boeing 747 8HTF,447700.0,467.0
+Boeing 737NG 89P/W,79015.0,189.0
+Airbus A320 211,77000.0,180.0
+Cessna Citation XLS+,9163.0,9.0
+Dassault Falcon 2000EX,,
+Cessna Citation CJ2,5670.0,6.0
+Dassault Mystère-Falcon 900,,
+Airbus A321-231,89000.0,244.0
+Learjet 35A,,
+Embraer EMB-195 LR,58500.0,120.0
+Boeing 747-400,447700.0,467.0
+Boeing 777 36NER,299370.0,370.0
+Boeing 737NG 86Q/W,79015.0,189.0
+Bombardier Global 6000,45132.0,17.0
+Cessna 510 Citation Mustang,,
+Gulfstream GV,,
+Canadair CL604 Challenger,,
+Airbus A330 223F,242000.0,277.0
+Boeing 777F,299370.0,370.0
+Swearingen Metro 23,,
+Cirrus SF50 Vision Jet,,
+Boeing 747 867F,447700.0,467.0
+Airbus A320-232,77000.0,180.0
+Cessna Citation CJ1+,4853.0,6.0
+Textron Aviation Citation Latitude,,
+Boeing 777 3FXER,299370.0,370.0
+Airbus A321 131,89000.0,185.0
+Airbus A300 F4-622RF,,
+Airbus A320 251NSL,77000.0,180.0
+Boeing 747 4HAERF,447700.0,467.0
+Canadair CRJ900ER Regional Jet,,
+Airbus A321 212,89000.0,244.0
+Embraer EMB-170 ST,39000.0,76.0
+Airbus A321-231SL,89000.0,244.0
+Boeing 747 481BDSF,447700.0,467.0
+Airbus A320-214,77000.0,180.0
+Airbus A320-232SL,77000.0,180.0
+Embraer EMB-175 LR,,
+Embraer EMB145LR,,
+Airbus A330 203,242000.0,277.0
+Boeing 777 222ER,299370.0,370.0
+Airbus A321 111,89000.0,244.0
+Bombardier Challenger 604,,
+Cessna 525B,5670.0,7.0
+Boeing 737NG 8B6/W,79015.0,189.0
+Boeing 737NG 7CT/W,79015.0,189.0
+Bombardier Global 5000,,
+Boeing 757 2B7SF,115000.0,239.0
+Airbus A330-223,242000.0,277.0
+Boeing 737-86N/W,79015.0,189.0
+Cessna Citation CJ1,4853.0,6.0
+Cessna 525A CitationJet CJ2,5670.0,6.0
+Boeing 747 83QF,447700.0,467.0
+Boeing 747-412,447700.0,467.0
+Cessna Citation CJ3,6300.0,7.0
+Boeing 777 39PER,299370.0,370.0
+Pilatus PC-XII 47E,,
+Boeing 737NG 85P/W,79015.0,189.0
+Embraer EMB135BJ Legacy 600,,
+Boeing 747 8B5F,447700.0,467.0
+Bombardier Learjet 31 A,,
+Boeing 747-8F,447700.0,467.0
+Cessna 525 Citation M2,,
+Airbus A319-112,75500.0,124.0
+Embraer EMB-190 AR,,
+Airbus A330-941,242000.0,277.0
+Boeing B737-36N,,
+Gulfstream Aerospace GV,,
+Pilatus PC-XII NG 47E,,
+Boeing 737NG 86N/W,79015.0,189.0
+Boeing 757 23ASF,115000.0,239.0
+Embraer EMB-175 SD,,
+Embraer EMB-190 SR,,
+Hawker 900XP,,
+Bombardier Global Express,,
+Cessna 680A Citation Latitude,,
+Bombardier Learjet 45,,
+Cessna Citation Encore+,,
+Boeing 777 3B5ER,299370.0,370.0
+Socata TBM-900,,
+Canadair CRJ2  Regional Jet,,
+Embraer Legacy 650,24000.0,13.0
+Boeing 747-4HAERF,447700.0,467.0
+Boeing 767 316ER/W,186880.0,261.0
+Boeing 747 87UF,447700.0,467.0
+Cessna Citation Sovereign,,
+Boeing 747 8F,447700.0,467.0
+Cessna 525A Citationjet CJ2,5670.0,6.0
+Embraer EMB-190 100,,
+Boeing 747-4B5F,447700.0,467.0
+Embraer ERJ190-100R,,
+Boeing 767 316F/W,186880.0,261.0
+Dassault Falcon 900DX,,
+Gulfstream G650,45000.0,19.0
+Gulfstream G450,,
+Boeing 737NG 8K5/W,79015.0,189.0
+Dassault Falcon 8X,,
+Airbus A318-121,68000.0,107.0
+Boeing 757 236SF,115000.0,239.0
+Embraer EMB-550 Praetor 600,,
+Bombardier BD700 Global 6000,,
+Bombardier Inc BD-700-1A11,,
+Diamond DA40 Star D,1150.0,4.0
+Dassault Falcon 2000S,,
+Cessna 525C CitationJet CJ4,,
+Boeing 737NG 8Z9/W,79015.0,189.0
+Dassault Falcon 2000,,
+Boeing 747-8B5F,447700.0,467.0
+Learjet 45,,
+Boeing 777 FB5,299370.0,370.0
+Boeing 757 27BSF,115000.0,239.0
+Boeing 737 4Q8SF,79015.0,189.0
+Honda Aircraft Company Honda Jet HA-420,,
+Airbus A320-214 (W),77000.0,180.0
+Airbus A321-251NX,89000.0,244.0
+Boeing 737NG 8BN/W,79015.0,189.0
+Boeing 747 8R7F,447700.0,467.0
+Boeing 757 28ASF,115000.0,239.0
+Bombardier DHC-8 402,,
+Bombardier Learjet 45 XR,,
+Cessna 525,,
+Embraer ERJ190-100 SR,,
+Boeing 737NG 8JP/W,79015.0,189.0
+Boeing 747 4B5ERF,447700.0,467.0
+Embraer EMB-500 Phenom 100,,
+Boeing 737NG 81Q/W,79015.0,189.0
+Embraer EMB500 Phenom 100,,
+Gulfstream GIV,,
+Boeing 737-8Q8/W,79015.0,189.0
+Fokker 70 (F28-0070),,
+Piper PA-46-500TP,,
+Boeing 737NG 8CX/W,79015.0,189.0
+Cessna 680 Citation Latitude,,
+Boeing 737-82R/W,79015.0,189.0
+Boeing 737NG 9F2ER/W,79015.0,189.0
+Cessna 650 Citation III,,
+Boeing 737NG 8Q8/W,79015.0,189.0
+Gulfstream G-V SP (G550),,
+Boeing 737-8JP/W,79015.0,189.0
+Boeing 747-4R7F (SCD),447700.0,467.0
+Boeing 757 23APF,115000.0,239.0
+Dassault Falcon 2000EX EASy,,
+Boeing 737NG 783,79015.0,189.0
+Boeing 737NG 82R/W,79015.0,189.0
+Boeing 757 208/W,115000.0,239.0
+Airbus A330 343X,242000.0,277.0
+Airbus A319-132,75500.0,124.0
+Bombardier Challenger 850,,
+Bombardier Challenger 605,,
+Swearingen SA226T Merlin IIIB,,
+Cessna Citation Excel,,
+Boeing 737NG 8BK/W,79015.0,189.0
+Beech 1900 D,,
+Bombardier BD500 Series CS100,,
+Airbus A330 243F,242000.0,277.0
+Embraer ERJ170-100,,
+British Aerospace 125-1000B,,
+Airbus A321-251XLR,89000.0,244.0
+Airbus A320 271NSL,77000.0,180.0
+Boeing 747-467F,447700.0,467.0
+,,
+Beech King Air B200,,
+Cessna 550 CitationJet 1,,
+Hawker Beechcraft Corp King Air B350,,
+Diamond DA40D Diamond Star,1150.0,4.0
+Bombardier CL-600-2B16 Challenger 604,,
+Boeing 737-8Z9,79015.0,189.0
+Embraer ERJ-190AR (190-100IGW),,
+Boeing 737 436,79015.0,189.0
+Boeing 737 4Z9SF,79015.0,189.0
+Airbus A321 212SL,89000.0,244.0
+Embraer Legacy 500,,
+Eurocopter Deutschland EC135 T2+,,
+Cessna Citation Sovereign+,,
+Gulfstream Aerospace G650,,
+Boeing 737NG 858/W,79015.0,189.0
+Gulfstream Aerospace GV-SP (G550),,
+Bombardier Learjet 60,,
+Cessna 560 Citation III,,
+Boeing 737-484,79015.0,189.0
+Boeing 737-86J/W,79015.0,189.0
+Boeing 737-85P,79015.0,189.0
+Cessna 510,,
+Cessna 425 Conquest I,,
+Cirrus Design Corp SR22T,,
+Cessna 550,,
+Gulfstream Aerospace G450,,
+Airbus A321-251NX/LR,97000.0,244.0
+Bombardier CS300,,
+Bombardier BD-100 Challenger 300,,
+Dornier Do 328 Jet 310,,
+Boeing 767 319ER/W,186880.0,261.0
+Boeing 767 424ER,186880.0,261.0
+Boeing 777 258ER,299370.0,370.0
+Boeing 777 FDZ,299370.0,370.0
+Cessna C560XL Citation XLS,,
+Boeing 747 46NF,447700.0,467.0
+Boeing 757-3E7/WL,115000.0,239.0
+Boeing 737NG 9KVER/W,79015.0,189.0
+Airbus A300 C4-605R,,
+Boeing 777 3F2ER,299370.0,370.0
+Cessna 550 Citation II,,
+Douglas DC-3C-S1C3G,,
+Boeing 747 481BCF,447700.0,467.0
+Boeing 737NG 86J/W,79015.0,189.0
+British Aerospace ATP,,
+Gulfstream Aerospace G550,,
+Gulfstream Aerospace G650 ER,,
+Cessna 560XL Citation Excel XLS,,
+Raytheon Aircraft Company Raytheon Aircraft Company 400 XP,,
+AMD-BA Falcon 900EX,,
+Boeing 767 432ER,186880.0,261.0
+Boeing 747 428ERF,447700.0,467.0
+Socata TBM700A,,
+Dassault Falcon 50,,
+Textron Aviation Citation CJ4,,
+Embraer EMB-550 Legacy 500,,
+Cessna 550 Citation Bravo,,
+Hughes 269C,,
+Boeing B737-76N/W,,
+Raytheon Aircraft Company 390,,
+Cessna Citation Bravo,,
+Boeing 737NG 8FH/W,79015.0,189.0
+Airbus A310 304,,
+Boeing 757 308/W,115000.0,239.0
+Canadair CRJ  900 Regional Jet,,
+Bombardier Learjet 40 XR,,
+Cessna 680,,
+Boeing 777-35EER,299370.0,370.0
+Boeing 737-7Z9,79015.0,189.0
+Boeing 767 322ER/W,186880.0,261.0
+Boeing 757 256,115000.0,239.0
+Boeing 757 256/W,115000.0,239.0
+Piaggio P-180 Avanti,,
+Cessna 560XLS Citation Excel,,
+Casa CASA C-295 M,,
+Boeing B747-412,,
+Airbus A321-271NX,89000.0,244.0
+Hawker 800XP2,,
+Gulfstream Aerospace GVI (G650ER),,
+Beech Bonanza A36,,
+Hawker 800XP,,
+Bombardier Global Express XRS,,
+Boeing 777-212ER,299370.0,370.0
+Boeing 777 333ER,299370.0,370.0
+Airbus A330 302E,242000.0,277.0
+Boeing B737-301 (SF),,
+Canadair CL604 Chall,,
+Cessna 525 CitationJet CJ1+,,
+Cessna 525 CitationJet CJ1,,
+Boeing 777 233LR,299370.0,370.0
+Hawker Beechcraft Premier,,
+Boeing 747 48EF,447700.0,467.0
+Gulfstream 200 Galaxy,,
+Airbus A319 111LR,75500.0,124.0
+Pilatus PC-12/47E,4740.0,9.0
+Reims F172N,,
+Fokker S.11.1,,
+Boeing 747 467F,447700.0,467.0
+Beechjet 400XT,,
+Dassault Falcon 900EX EASy,,
+Beech 300 Super King Air 350,,
+Boeing 737-48E(F),79015.0,189.0
+Beech B200GT Super King Air,,
+Textron Aviation Citation Sovereign+,,
+Boeing 737-81Q/W,79015.0,189.0
+Piaggio P180 Avanti II,,
+Bombardier BD700 Global Express,,
+Aerospool Dynamic WT9,,
+Bombardier BD700 Global 5000,,
+Israel Aircraft Industries Israel Aircraft Industries 1125 Astra SPX,,
+Gates Learjet 35 A,,
+Cirrus Design SR22T,,
+Bombardier CL-600-2B16 (604),,
+Bombardier Learjet 60 XR,,
+Airbus A321-271NX/LR,89000.0,244.0
+Embraer EMB135BJ Legacy 650,,
+Robinson R44 II,,
+Airbus A321-251N,89000.0,244.0
+Bombardier BD700 Global Express XRS,,
+Gates Learjet 55,,
+Hawker 4000,,
+Cessna 525B CitationJet CJ3,5670.0,7.0
+Dassault Falcon 900LX,,
+Airbus A340 313X,275000.0,375.0
+Airbus A330-223F,242000.0,277.0
+Boeing 737 33S/W,79015.0,189.0
+IAI 1125A Astra SPX,,
+Gulfstream 400,,
+Airbus A319-133CJ,75500.0,124.0
+Embraer Legacy 450,,
+Boeing 737-522,79015.0,189.0
+Beech 400A Beechjet,,
+Cessna 680 Citation Sovereign,,
+Raytheon Aircraft Company Raytheon Aircraft Company 400 A,,
+Boeing 737 301SF,79015.0,189.0
+Raytheon Aircraft Company Raytheon Aircraft Company Premier I,,
+Embraer EMB-135LR,,
+Embraer Phenom 100,,
+Gulfstream 450,,
+Bombardier Learjet 75,,
+Boeing 737-81D/W,79015.0,189.0
+Gulfstream 650,,
+Boeing 777-31HER,299370.0,370.0
+Boeing 737-8F2,79015.0,189.0
+Airbus A330-202,242000.0,277.0
+Airbus A330-302,242000.0,277.0
+Beech 1900D,,
+Embraer ERJ-135 LR,,
+Boeing 737-866/W,79015.0,189.0
+Boeing 737NG 7BJ/W BBJ,79015.0,189.0
+Boeing 737-76N,79015.0,189.0
+Hawker Beechcraft Corp Hawker Beechcraft Corp Hawker 900XP,,
+Boeing 737NG 7K5/W,79015.0,189.0
+Embraer ERJ145MP,,
+Dassault Falcon 900,,
+Boeing 737-3L9,79015.0,189.0
+Airbus A330-343,242000.0,277.0
+Airbus A320 212,77000.0,180.0
+Dassault Falcon 2000LXS,,
+Textron Aviation Inc CESSNA 680A Latitude,,
+Diamond Aircraft Twin Star DA42,,
+Piper PA31T-620 Cheyenne IIXL,,
+Socata TBM 700,,
+Airbus A340-313,275000.0,375.0
+Cessna Citation III,,
+Boeing 737-8Q8,79015.0,189.0
+Boeing 777 21HLR,299370.0,370.0
+Dassault Falcon 2000LX,,
+Robinson R44,,
+Learjet 60,,
+Dornier 328-120,,
+Dassault Falcon 2000LX S,,
+Robinson R44 Raven,,
+Reims F172P,,
+Raytheon Aircraft Company Raytheon Aircraft Company 125 800XP,,
+Daher-socata DAHER-SOCATA TBM 930,,
+Boeing 737NG 77W/W BBJ,79015.0,189.0
+Learjet 40,,
+Boeing 777 FFG,299370.0,370.0
+Gulfstream G280,,
+Piaggio P180 Avanti,,
+Boeing 777-300,299370.0,370.0
+Embraer EMB-190 STD,,
+Raytheon Aircraft Company 400A,,
+Textron Aviation Citation CJ3,,
+Boeing 737-8EH/W,79015.0,189.0
+Boeing 737-8K5,79015.0,189.0
+Boeing 777 223ER,299370.0,370.0
+Boeing 747-409F (SCD),447700.0,467.0
+Cirrus Design SR22,,
+Pilatus PC-XII 45,4740.0,9.0
+Gulfstream 550,,
+Beech 390 Premier 1A,,
+Canadair CL605 Challenger,21863.0,12.0
+McDonnell-Douglas DC9-32,,
+Boeing 767-34PER,186880.0,261.0
+Boeing 777 FFT,299370.0,370.0
+Airbus A380 842,575000.0,853.0
+Gulfstream Aerospace GIV SP,,
+Cessna 560XL Citation XLS,,
+Boeing 767 322ER,186880.0,261.0
+Boeing 747-409,447700.0,467.0
+Cessna 560 Citation Ultra,,
+Pilatus PC-24,,
+Airbus A330-243F,242000.0,277.0
+Airbus A319-153N,75500.0,124.0
+Cessna 182P,,
+Embraer ERJ135ER,,
+Gulfstream Aerospace G200,,
+British Aeropspace Jetstream 32,,
+Textron Aviation Citation M2,,
+IAI 1126 Galaxy,,
+Raytheon 390 Premier I,,
+Bombardier CRJ 1000 NG,,
+Airbus A319-115X(CJ),75500.0,124.0
+Raytheon BAe 125 800XP,,
+SOCATA-GA TB 10,,
+Airbus A321-271N,89000.0,244.0
+Airbus A320-214/W,77000.0,180.0
+Pilatus PCXII/47E,,
+Socata TBM850,,
+Aerospatiale ATR72-600,,
+Fairchild SA227-DC Metro 23,,
+Socata TBM 700 C,,
+Swearingen Merlin IVC,,
+Boeing 767-3CB/WL,186880.0,261.0
+Airbus A320-251N ACJ,77000.0,180.0
+Boeing 737 4Y0SF,79015.0,189.0
+Boeing 737 476SF,79015.0,189.0
+Boeing 767-322,186880.0,261.0
+ATR 72-101,,
+Airbus ACJ319 115X,,
+CASA C295M,,
+Boeing B737-8AS/W,,
+Airbus A330-343E,242000.0,277.0
+Pilatus PC12/47,,
+Airbus ACJ319 115CJ/SL,,
+Boeing 737NG 79V/W BBJ,79015.0,189.0
+AgustaWestland AW139,,
+Bombardier Inc BD-700-1A10,,
+Airbus A318-112 Elite,68000.0,107.0
+Boeing 777 FEZ,299370.0,370.0
+Diamond DA42NG,,
+Airbus A320 231,77000.0,180.0
+Diamond DA42NG Twin Star,,
+Boeing 737NG 8AL/W,79015.0,189.0
+Boeing 737NG 8GQ/W,79015.0,189.0
+Boeing 737NG 9GJER/W,79015.0,189.0
+Boeing 777 F28,299370.0,370.0
+Socata SOCATA TBM 700 B,,
+Embraer ERJ-135BJ Legacy 600,,
+Eurocopter France EC 120 B,,
+Agusta AB206B,,
+Piper PA-18-150,,
+Boeing 777 3U8ER,299370.0,370.0
+Piper PA-18-135,,
+Eclipse Aviation EA500,,
+Boeing 737-73V,79015.0,189.0
+Boeing 777-FFG,299370.0,370.0
+Groupe Aerospatiale SOCATA TB 9,,
+Boeing 747-45EF,447700.0,467.0
+Cirrus SR22,,
+Cirrus Design SR22 GTS,,
+Gulfstream G550,41277.0,19.0
+Boeing 757 28AF,115000.0,239.0
+Airbus A321 213,89000.0,244.0
+Dornier Do 228 212,,
+Groupe Aerospatiale SOCATA TB 10,,
+Beech Baron 58,,
+"Aerospatiale, Societe Nationale Industrielle AS 355 F2",,
+Boeing 747-45E,447700.0,467.0
+Boeing 757 23N/W,115000.0,239.0
+Bombardier Challenger 601 3A,,
+Boeing 747-8KB BBJ,447700.0,467.0
+Boeing 747-412BCF,447700.0,467.0
+Dassault Falcon 900 B,,
+Boeing 747 830,447700.0,467.0
+Cessna 208B Grand Caravan,,
+Boeing 757 225,115000.0,239.0
+Pilatus PC-XII 47,,
+Boeing B737-35B,,
+Boeing B747-209B (SF),,
+Robinson R44 Raven II,,
+Robinson R44 Clipper II,,
+Honda Jet HA-420,,
+Socata SOCATA TBM 700,,
+Cessna 340A,,
+Cessna 172P,,
+Cessna Citation II,,
+Piper PA-34 200T Seneca II,,
+"Partenavia P.68B ""Victor""",,
+Hawker Beechcraft Corp Hawker Beechcraft Corp Premier I,,
+Tecnam P2006T,,
+Cessna 210K,,
